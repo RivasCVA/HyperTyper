@@ -9,5 +9,5 @@ This app was made as a learner project for iOS and Swift. The goal was to learn 
 # Where Can I Download?
 No intentions were ever made to publisht this app to the Apple App Store. I don't feel like the app meets my personal requirements to be published. 
 
-# What Is Still Left To Do
-The app lacks a database integration to store user statistics. This means that the user currently only plays 'offline' and cannot see the stats of others. I would consider publishing the app if such databse is integrated. I may come back to the project to add this last feature at a later time.
+# What's Left To Do?
+The app lacks a database integration to store user statistics. This means that the user's data is currently only stored within Core Data. So essentialy, the user only plays 'offline' and cannot see the statistics of others. I would consider publishing the app if such database is integrated. I may come back to the project to add this last feature at a later time.
