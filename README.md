@@ -7,4 +7,4 @@ An iOS typing game that lets player test their typing skills with a multitude of
 This app was made as a learner project for iOS and Swift. The goal was to learn the basic development process of an iOS app. This includes the usage of Storyboards and the integrations of CocoaPods.
 
 # Where Can I Download?
-No intentions were ever made to publisht this app to the Apple App Store. I don't feel like the app meets my personal requirements to be published. I may still come back later and add new features that would meet my requirements and possibly publish it to the App Store.
+No intentions were ever made to publisht this app to the Apple App Store. I don't feel like the app meets my personal requirements to be published. This is mostly because it lacks a database integration to store user statistics. This means that the user currently only plays 'offline' and cannot see the stats of others. I may still come back later and add new features that would meet my requirements. If so, I may then publish it to the App Store.
