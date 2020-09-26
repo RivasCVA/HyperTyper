@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19E266" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FastestTimePassage" representedClassName="FastestTimePassage" syncable="YES" codeGenerationType="class">
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+        <attribute name="time" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="FastestTimePerWordPassage" representedClassName="FastestTimePerWordPassage" syncable="YES" codeGenerationType="class">
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+        <attribute name="timeperword" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="HighestAvgWPMPassage" representedClassName="HighestAvgWPMPassage" syncable="YES" codeGenerationType="class">
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="averagewpm" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="IndividualHighScores" representedClassName="IndividualHighScores" syncable="YES" codeGenerationType="class">
+        <attribute name="fastesttime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="fastesttimeperword" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="highestaveragewpm" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="mostaccurate" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Last5GamesWPM" representedClassName="Last5GamesWPM" syncable="YES" codeGenerationType="class">
+        <attribute name="count" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm1" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm2" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm3" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm4" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm5" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="MostAccuratePassage" representedClassName="MostAccuratePassage" syncable="YES" codeGenerationType="class">
+        <attribute name="accuracy" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MostPlayedPassage" representedClassName="MostPlayedPassage" syncable="YES" codeGenerationType="class">
+        <attribute name="author" optional="YES" attributeType="String"/>
+        <attribute name="numtimesplayed" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="NumTimesPlayed" representedClassName="NumTimesPlayed" syncable="YES" codeGenerationType="class">
+        <attribute name="numtimesplayed" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="textid" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="OverallAverageWPM" representedClassName="OverallAverageWPM" syncable="YES" codeGenerationType="class">
+        <attribute name="count" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="wpm" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="TotalGamesPlayed" representedClassName="TotalGamesPlayed" syncable="YES" codeGenerationType="class">
+        <attribute name="count" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="FastestTimePassage" positionX="-54" positionY="-9" width="128" height="105"/>
+        <element name="FastestTimePerWordPassage" positionX="-36" positionY="9" width="128" height="105"/>
+        <element name="HighestAvgWPMPassage" positionX="-18" positionY="27" width="128" height="105"/>
+        <element name="IndividualHighScores" positionX="0" positionY="72" width="128" height="120"/>
+        <element name="Last5GamesWPM" positionX="0" positionY="81" width="128" height="133"/>
+        <element name="MostAccuratePassage" positionX="0" positionY="45" width="128" height="105"/>
+        <element name="MostPlayedPassage" positionX="18" positionY="63" width="128" height="105"/>
+        <element name="NumTimesPlayed" positionX="36" positionY="108" width="128" height="75"/>
+        <element name="OverallAverageWPM" positionX="-9" positionY="72" width="128" height="73"/>
+        <element name="TotalGamesPlayed" positionX="9" positionY="99" width="128" height="58"/>
+    </elements>
+</model>

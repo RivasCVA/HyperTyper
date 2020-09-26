@@ -1,0 +1,300 @@
+{
+  "book": {
+    
+    "short": [
+      {
+        "Title": "A Farewell to Arms",
+        "Author": "Ernest Hemingway",
+        "Text": "No, that is the great fallacy; the wisdom of old men. They do not grow wise. They grow careful.",
+        "ID": "BSFTA"
+      },
+      {
+        "Title": "If This Is a Man",
+        "Author": "Primo Levi",
+        "Text": "There is nowhere to look in a mirror, but our appearance stands in front of us, reflected in a hundred livid faces, in a hundred miserable and sordid puppets.",
+        "ID": "BSTIM"
+      },
+      {
+        "Title": "Diary of a Wimpy Kid",
+        "Author": "Jeff Kinney",
+        "Text": "If there’s one thing I learned from Rodrick, it’s to set people’s expectations real low so you end up surprising them by practically doing nothing at all.",
+        "ID": "BSWMP"
+      }
+    ],
+    
+    "medium": [
+      {
+        "Title": "Mornings on Horseback",
+        "Author": "David McCullough",
+        "Text": "Women thought Conkling gorgeous, which he was. He carried a sun umbrella and favored bright bright bow ties, fawn-colored vests and trousers, English gaiters, and gleaming pointed shoes. His beard was the color of burnished copper and it too was pointed.",
+        "ID": "BMMOH"
+      },
+      {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Text": "Tomorrow, sell our camel and buy a horse. Camels are traitorous: they walk thousands of paces and never seem to tire. Then suddenly, they kneel and die. But horses tire bit by bit. You always know how much you know you can ask of them, and when it is that they are about to die.",
+        "ID": "BMALC"
+      },
+      {
+        "Title": "Rich Dad, Poor Dad",
+        "Author": "Robert T. Kiyosaki",
+        "Text": "In school we learn that mistakes are bad, and we are punished for making them. Yet, if you look at the way humans are designed to learn, we learn by making mistakes. We learn to walk by falling down. If we never fell down, we would never walk.",
+        "ID": "BMRPD"
+      }
+    ],
+    
+    "long": [
+      {
+        "Title": "The Sun is Also a Star",
+        "Author": "Nicola Yoon",
+        "Text": "Girl who has no name is stopped at a crosswalk ahead of me. I swear I’m not following her. She’s just going my way. Her super-pink headphones are back on, and she’s swaying to her music again. I can’t see her face, but I’m guessing her eyes are closed. She misses a walk cycle, and now I’m right behind her.",
+        "ID": "BLTSS"
+      },
+      {
+        "Title": "Great Expectations",
+        "Author": "Charles Dickens",
+        "Text": "That was a memorable day to me, for it made great changes in me. But, it is the same with any life. Imagine one selected day struck out of it, and think how different its course would have been. Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.",
+        "ID": "BLGEX"
+      },
+      {
+        "Title": "Love Warrior",
+        "Author": "Glennon Doyle Melton",
+        "Text": "Beautiful means ‘full of beauty.’ Beautiful is not about how you look on the outside, beautiful is about what you’re made of. Beautiful people spend time discovering what their idea of beauty on this earth is. They know themselves well enough to know what they love, and they love themselves enough to fill up with a little of their particular kind of beauty each day.",
+        "ID": "BLLW"
+      }
+    ]
+    
+  },
+  
+  "movie": {
+    
+    "short": [
+      {
+        "Title": "La La Land",
+        "Author": "Summit Entertainment",
+        "Text": "Write something that’s as interesting as you are. Look at Louis Armstrong. He could have just played the marching band charts that he was given but what did he do?",
+        "ID": "MSLLL"
+      },
+      {
+        "Title": "Sausage Party",
+        "Author": "Annapurna Pictures",
+        "Text": "What are you, nuts? Why would I do that? I’m a pacifist. The only thing I’ve ever pushed is my peaceful agenda. Even that I didn’t push, you know. I pretty much passive-aggressively nudged.",
+        "ID": "MSSSP"
+      },
+      {
+        "Title": "Star Wars: Return of the Jedi",
+        "Author": "Lucasfilm",
+        "Text": "Luke, when gone am I, the last of the Jedi will you be. Luke, the Force runs strong in your family. Pass on what you have learned.",
+        "ID": "MSYDA"
+      }
+    ],
+    
+    "medium": [
+      {
+        "Title": "Coco",
+        "Author": "Pixar",
+        "Text": "And right here, in this very plaza, the young Ernesto de la Cruz took his first steps toward becoming the most beloved singer in Mexican History! He started out a total nobody from Santa Cecilia, like me. But when he played music, he made people fall in love with him.",
+        "ID": "MMCCO"
+      },
+      {
+        "Title": "Bee Movie",
+        "Author": "DreamWorks Animation",
+        "Text": "According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don’t care what humans think is impossible.",
+        "ID": "MMBEE"
+      },
+      {
+        "Title": "Avengers: Endgame",
+        "Author": "Marvel Studios",
+        "Text": "Why would I be scared of that guy? I’m the one who killed that guy, remember? Anyone else here killed that guy? Nope. Didn’t think so. Korg, why don’t you tell everybody who chopped Thanos’ big head off.",
+        "ID": "MMEND"
+      }
+    ],
+    
+    "long": [
+      {
+        "Title": "Lolita",
+        "Author": "Pathé",
+        "Text": "All at once, we were madly, hopelessly in love. Four months later, she died of typhus. The shock of her death froze something in me. The child I loved was gone. But I kept looking for her. Long after I’d left my own childhood behind. The poison was in the wound, you see, and the wound wouldn’t heal.",
+        "ID": "MLLTA"
+      },
+      {
+        "Title": "Nerve",
+        "Author": "Allison Shearmur Productions",
+        "Text": "Hello. Welcome to nerve. You have chosen player. Nerve is a direct democracy. Watchers decide your dares. The two players with the most watchers by the end of regulation will advance to the final round, where the winner takes all. Watchers can watch from anywhere, but they are encouraged to film live. So don’t be alarmed.",
+        "ID": "MLNRV"
+      },
+      {
+        "Title": "Fast Five",
+        "Author": "Original Film",
+        "Text": "Look, I would love to expand my operations into your countries but, quite frankly, your business methods are too violent. Let me tell you a true story. Five hundred years ago, the Portuguese and the Spanish came here, each trying to get the country from their natives. The Spaniards arrived, guns blazing, determined to prove who was boss. The natives killed every single Spaniard.",
+        "ID": "MLFVE"
+      }
+    ]
+    
+  },
+  
+  "song": {
+    
+    "short": [
+      {
+        "Title": "Happier",
+        "Author": "Ed Sheeran",
+        "Text": "Saw you walk inside a bar. He said something to make you laugh. I saw that both your smiles were twice as wide as ours. Yeah, you look happier, you do.",
+        "ID": "SSHPR"
+      },
+      {
+        "Title": "Circles",
+        "Author": "Post Malone",
+        "Text": "Seasons change and our love went cold. Feed the flame cause we can’t let go. Run away, but we’re running in circles. Run away, run away.",
+        "ID": "SSCCL"
+      },
+      {
+        "Title": "My Girl",
+        "Author": "The Temptations",
+        "Text": "I’ve got sunshine on a cloudy day. When it’s cold outside, I’ve got the month of May. Well I guess you’d say, what can make me feel this way?",
+        "ID": "SSGRL"
+      }
+    ],
+    
+    "medium": [
+      {
+        "Title": "Smooth Criminal",
+        "Author": "Michael Jackson",
+        "Text": "As he came into the window, it was the sound of a crescendo. He came into her apartment. He left the bloodstains on the carpet. She ran underneath the table. He could see she was unable. So she ran into the bedroom. She was struck down, it was her doom.",
+        "ID": "SMSC"
+      },
+      {
+        "Title": "Strangers in the Night",
+        "Author": "Frank Sinatra",
+        "Text": "Strangers in the night exchanging glances. Wondering in the night, what were the chances we’d be sharing love before the night was through. Something in your eyes was so inviting, something in your smile was so exciting, something in my heart, told me I must have you.",
+        "ID": "SMSTR"
+      },
+      {
+        "Title": "You Are My Sunshine",
+        "Author": "Johnny Cash",
+        "Text": "The other night dear, as I lay sleeping, I dreamed I held you in my arms. But when I awoke, dear, I was mistaken, So I hung my head and I cried. You are my sunshine, my only sunshine. You make me happy when skies are gray.",
+        "ID": "SMSUN"
+      }
+    ],
+    
+    "long": [
+      {
+        "Title": "In the Night",
+        "Author": "The Weeknd",
+        "Text": "All alone she was living. In a world without an end or beginning. Baby girl was living life for the feeling, but I don’t mind, I don’t mind. And all the wrongs she committed. She was numb, and she was so codependent. She was young and all she had was the city, but I don’t mind, I don’t mind.",
+        "ID": "SLITN"
+      },
+      {
+        "Title": "Jailhouse Rock",
+        "Author": "Elvis Presley",
+        "Text": "The warden threw a party in the county jail. The prison band was there and they began to wail. The band was jumpin’ and the joint began to swing. You should’ve heard them knocked-out jailbirds sing. Let’s rock everybody, let’s rock. Everybody in the whole cell block was dancin’ to the Jailhouse Rock.",
+        "ID": "SLJHR"
+      },
+      {
+        "Title": "What Makes You Country",
+        "Author": "Luke Bryan",
+        "Text": "I got my dirt road cred when I was twelve on a no cab tractor hauling them bales. Backing in boats, fishing limb lines, running bird dogs through the Georgia pines. Step side cover down in peanut dust, Friday night spotlight, and that was us. It might not’ve been you, but I can’t judge, just be proud of what makes you country.",
+        "ID": "SLTRY"
+      }
+    ]
+    
+  },
+  
+  "quote": {
+    
+    "short": [
+      {
+        "Title": "Einstein Quote",
+        "Author": "Albert Einstein",
+        "Text": "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.",
+        "ID": "QSEFS"
+      },
+      {
+        "Title": "Seuss Quote",
+        "Author": "Dr. Seuss",
+        "Text": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You’re on your own. And you know what you know.",
+        "ID": "QSDRS"
+      },
+      {
+        "Title": "Franklin Quote",
+        "Author": "Benjamin Franklin",
+        "Text": "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up.",
+        "ID": "QSBEN"
+      }
+    ],
+    
+    "medium": [
+      {
+        "Title": "I Have A Dream Speech",
+        "Author": "Martin Luther King Jr.",
+        "Text": "I say to you today, my friends, so even though we face the difficulties of today and tomorrow, I still have a dream. It is a dream deeply rooted in the American dream. I have a dream that one day this nation will rise up and live out the true meaning of its creed.",
+        "ID": "QMDRM"
+      },
+      {
+        "Title": "Investing Quote",
+        "Author": "Warren Buffett",
+        "Text": "The key to investing is not assessing how much an industry is going to affect society, or how much it will grow, but rather determining the competitive advantage of any given company and, above all, the durability of that advantage.",
+        "ID": "QMINV"
+      },
+      {
+        "Title": "Mandela Quote",
+        "Author": "Nelson Mandela",
+        "Text": "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others that will determine the significance of the life we lead.",
+        "ID": "QMNEL"
+      }
+    ],
+    
+    "long": [
+      {
+        "Title": "Disneyland Inauguration Speech",
+        "Author": "Walt Disney",
+        "Text": "To all who come to this happy place; welcome. Disneyland is your land. Here age relives fond memories of the past... and here youth may savor the challenge and promise of the future. Disneyland is dedicated to the ideals, the dreams and the hard facts that have created America... with the hope that it will be a source of joy and inspiration to all the world.",
+        "ID": "QLDIS"
+      },
+      {
+        "Title": "Computer Invention Quote",
+        "Author": "Steve Jobs",
+        "Text": "Of all the inventions of humans, the computer is going to rank near or at the top as history unfolds and we look back. It is the most awesome tool that we have ever invented. I feel incredibly lucky to be at exactly the right place in Silicon Valley, at exactly the right time, historically, where this invention has taken form.",
+        "ID": "QLCOM"
+      },
+      {
+        "Title": "Luck Quote",
+        "Author": "Jim Simons",
+        "Text": "Let’s suppose you have a coin that is 70/30 heads. Well, if you get to bet heads, you are going to win seven times out of ten. Three times out of ten you are going to lose, and that’s bad luck. So you need a measure of good luck to avoid a long run of tails when you have a 70/30 coin that’s heads. At a certain point the luck evens out.",
+        "ID": "QLLCK"
+      }
+    ]
+    
+  },
+  
+  "emoji": {
+      
+      "short": [
+          {
+              "Title": "Emojifood",
+              "Author": "Rivas",
+              "Text": "🍔🥓🍟🍕🌮🍤🥖🍞🌶🍎🍓🥦🥐",
+              "ID": "ESHAP"
+          }
+      ],
+      
+      "medium": [
+          {
+              "Title": "Emojifun",
+              "Author": "Rivas",
+              "Text": "⚽️⚾️🏀🏒⛳️🥁🎧🎮🎰🛶🎡🎢🏝🕹📷📞💎🎁🎈🎊🎉📖🖍",
+              "ID": "EMFUN"
+          }
+      ],
+      
+      "long": [
+          {
+              "Title": "A Day in Emoji",
+              "Author": "Rivas",
+              "Text": "☀️🌈🛏🥞🥛🏡🚲🏢📖📝🌭🍟🥤📱🖥🚲⛸🏒🏡🛁🚗⛩🍝🍱🍷🚗🏡🎧🎮🚽🛏🌙⭐️💤",
+              "ID": "ELDAY"
+          }
+      ]
+      
+  }
+}
