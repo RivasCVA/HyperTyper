@@ -10,4 +10,4 @@ Hyper Typer was made as a learner project for iOS development and Swift. The goa
 The app is yet to be published on the Apple App Store. There is a key feature that needs to be implemented in order for the app to be in a production-ready state. 
 
 # What's Left To Do?
-The app lacks a database integration to store user data on the cloud. Currently, the user's data is stored within Core Data. This means that each user only plays in an offline manner and cannot see the statistics of others. I will publish the app when such database is integrated. I will work on project at a later time to add this last key feature.
+The app lacks a database integration to store user data on the cloud and allow users to compare their performance with others. Currently, the user's data is stored within Core Data. This means that users can only play in an offline manner and cannot see the statistics of others. I will publish the app when such database is integrated. I will work on the project at a later time to add this last key feature.
